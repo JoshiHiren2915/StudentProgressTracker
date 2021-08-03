@@ -1,0 +1,19 @@
+-Feed(Trending Posts)
+-Doubt solving(Top ans/Newest ans)
+-Overall Rating(Top students (Avg Ratings of all Activities))
+-Study material
+-Upcoming Events(Participants & Events)
+-Log for particular student(participation in an event or Broke a Rule)
+-Special profiles for Teams(Management Team / Technical team etc.)
+-Assignmment submission
+-Participating an Activitiy adds some Ratings to Student
+-Miss behaviour decreases Ratings
+
+This is from master of git
+
+
+Usefull links
+-https://nevonprojects.com/evaluation-of-academic-performance-of-students-with-fuzzy-logic/
+-https://nevonprojects.com/monitoring-suspicious-discussions-on-online-forums-using-data-mining/
+This is from master of git
+

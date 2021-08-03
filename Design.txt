@@ -1,0 +1,21 @@
+Users
+    -Admin
+    -Student
+    -Faculty
+
+Objective:
+    Student Progress tracker
+
+Defination:
+    gather useful information and show it in meaningful way
+
+Research:
+    No existing sys
+    Admin/Faculty/Students(belongs to institute)
+    Role of users:
+        Admin:
+            -
+        Faculty:
+            -
+        Student:
+            -

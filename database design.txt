@@ -1,0 +1,29 @@
+Subjects
+	sub_id 2
+	name   c++
+	sem
+
+faculties
+	id
+	name
+	gender
+	user
+	pass
+
+sub_faculties
+	id
+	sub_id(foreign subjects)
+	fac_id(foreign faculties)
+
+weekly test
+	test_id p/key 		1	2
+	test_name		unit 1	unit 1
+	time			auto	auto
+	total_marks		70	100
+	subject (foreign)	2(C++)	5(FOS)
+
+marks
+	marks_id
+	test_id
+	student_id
+	total marks
